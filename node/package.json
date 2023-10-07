@@ -1,0 +1,24 @@
+{
+  "name": "uptime",
+  "version": "1.0.0",
+  "description": "Uptime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mralexcraven3/uptime.git"
+  },
+  "author": "Alex Craven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mralexcraven3/uptime/issues"
+  },
+  "homepage": "https://github.com/mralexcraven3/uptime#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "ping": "^0.4.4",
+    "time": "^0.12.0"
+  }
+}
